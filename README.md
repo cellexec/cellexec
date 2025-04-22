@@ -19,7 +19,6 @@ I’m all about building efficient, minimal, and automated setups. Whether it’
 - Rust
 - Progress 4GL
 
----
 
 ## 🐧 My Linux Kickstart
 
@@ -28,7 +27,6 @@ I’m all about building efficient, minimal, and automated setups. Whether it’
 
 **🔗 Repository:** [kickstart.linux](https://github.com/cellexec/kickstart.linux)
 
----
 
 ## 🚀 My GitOps Setup
 
@@ -37,7 +35,6 @@ I’m all about building efficient, minimal, and automated setups. Whether it’
 
 **🔗 Repository:** [flux-gitops](https://github.com/cellexec/flux-gitops)
 
----
 
 ## 🧩 GitOps Applications
 
@@ -53,7 +50,6 @@ I’m all about building efficient, minimal, and automated setups. Whether it’
 - [app-dns](https://github.com/cellexec/app-dns)
 - [app-external](https://github.com/cellexec/app-external)
 
----
 
 _Thanks for stopping by — feel free to check out my projects or connect with me!_
 
