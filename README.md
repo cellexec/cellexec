@@ -8,12 +8,18 @@ Self-taught tech enthusiast from Würzburg, Germany — born in '96, raised on c
 
 I’m all about building efficient, minimal, and automated setups. Whether it’s frontend, backend, or infrastructure, I enjoy putting pieces together that *just work*.
 
+<br />
+
 ### 🔧 Technologies I love
 - React, Next.js, Supabase
 - Kubernetes, Docker, GitLab, Flux
 
+<br />
+
 ### ⚙️ Tools I can’t live without
 - K9s, LazyDocker, Tmux, Neovim, Zsh
+
+<br />
 
 ### 💻 Programming languages I use
 - JavaScript / TypeScript
