@@ -1,32 +1,56 @@
-# 🧑‍💻 About Me
+# 👋 Hey there! I'm Marcel
 
-Automation-focused developer. I build tools, ship apps, and manage infrastructure with GitOps.
+> 🧠 Self-taught tech enthusiast from Würzburg, Germany — born in '96, raised on curiosity, and a proud cat dad of two. I’ve been passionate about IT since I was 12 and am always eager to automate, improve, and learn new things.
 
-> [!NOTE]  
-> I manage everything from setup to services using GitOps + a personal Linux bootstrap repo.
+## 🧰 What I like working with
 
-# ⚡️ Kickstart
+I’m all about building efficient, minimal, and automated setups. Whether it’s frontend, backend, or infrastructure, I enjoy putting pieces together that *just work*.
 
-> [!TIP]  
-> My personal Linux setup: dotfiles, configs, tools, and fonts — all bootstrapped with a single `make` command.
+### 🔧 Technologies I love
+- React, Next.js, Supabase
+- Kubernetes, Docker, GitLab, Flux
 
-[`kickstart.linux`](https://github.com/yourusername/kickstart.linux)
+### ⚙️ Tools I can’t live without
+- k9s, lazydocker, tmux, Neovim, zsh
 
-# 🌱 GitOps
+### 💻 Programming languages I use
+- JavaScript / TypeScript
+- Java
+- Rust
+- Progress 4GL
 
-> [!TIP]  
-> GitOps control repo — drives my entire system with declarative config and continuous deployment.
+---
 
-[`flux-gitops`](https://github.com/yourusername/flux-gitops)
+## 🐧 My Linux Kickstart
 
-# 🧩 Apps I Maintain
+> 🎛️ A personal starter kit to bootstrap and configure a minimal Linux system — with all my preferred tools, terminal setup, and editors.
 
-> [!INFO]  
-> These apps are deployed and managed through my GitOps setup:
+[🔗 kickstart.linux](https://github.com/cellexec/kickstart.linux)
 
-- [`app-auth`](https://github.com/yourusername/app-auth)
-- [`app-api`](https://github.com/yourusername/app-api)
-- [`app-frontend`](https://github.com/yourusername/app-frontend)
-- [`app-metrics`](https://github.com/yourusername/app-metrics)
-- [`app-scheduler`](https://github.com/yourusername/app-scheduler)
+---
+
+## 🚀 My GitOps Setup
+
+> 🌐 I manage my infrastructure declaratively using Flux and GitOps principles. This is where all my apps come together and stay up-to-date.
+
+[🔗 flux-gitops](https://github.com/cellexec/flux-gitops)
+
+---
+
+## 🧩 GitOps Applications
+
+These are the apps I’ve written that are used in my GitOps setup:
+
+- [app-configs](https://github.com/cellexec/app-configs)
+- [app-uptime](https://github.com/cellexec/app-uptime)
+- [app-devtools](https://github.com/cellexec/app-devtools)
+- [app-media](https://github.com/cellexec/app-media)
+- [app-home](https://github.com/cellexec/app-home)
+- [app-playground](https://github.com/cellexec/app-playground)
+- [app-dns](https://github.com/cellexec/app-dns)
+- [app-external](https://github.com/cellexec/app-external)
+
+---
+
+_Thanks for stopping by — feel free to check out my projects or connect with me!_
 
