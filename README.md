@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Marcel
 
-> [!TIP] Self-taught tech enthusiast from Würzburg, Germany — born in '96, raised on curiosity, and a proud cat dad of two. I’ve been passionate about IT since I was 12 and am always eager to automate, improve, and learn new things.
+Self-taught tech enthusiast from Würzburg, Germany — born in '96, raised on curiosity, and a proud cat dad of two. I’ve been passionate about IT since I was 12 and am always eager to automate, improve, and learn new things.
 
 ## 🧰 What I like working with
 
@@ -23,7 +23,8 @@ I’m all about building efficient, minimal, and automated setups. Whether it’
 
 ## 🐧 My Linux Kickstart
 
-> [!TIP] A personal starter kit to bootstrap and configure a minimal Linux system — with all my preferred tools, terminal setup, and editors.
+> [!TIP] 
+> A personal starter kit to bootstrap and configure a minimal Linux system — with all my preferred tools, terminal setup, and editors.
 
 **🔗 Repository:** [kickstart.linux](https://github.com/cellexec/kickstart.linux)
 
@@ -31,7 +32,8 @@ I’m all about building efficient, minimal, and automated setups. Whether it’
 
 ## 🚀 My GitOps Setup
 
-> [!TIP] I manage my infrastructure declaratively using Flux and GitOps principles. This is where all my apps come together and stay up-to-date.
+> [!TIP] 
+> I manage my infrastructure declaratively using Flux and GitOps principles. This is where all my apps come together and stay up-to-date.
 
 **🔗 Repository:** [flux-gitops](https://github.com/cellexec/flux-gitops)
 
@@ -39,7 +41,8 @@ I’m all about building efficient, minimal, and automated setups. Whether it’
 
 ## 🧩 GitOps Applications
 
-These are the apps I’ve written that are used in my GitOps setup:
+> [!TIP]
+> These are the apps I’ve written that are used in my GitOps setup:
 
 - [app-configs](https://github.com/cellexec/app-configs)
 - [app-uptime](https://github.com/cellexec/app-uptime)
