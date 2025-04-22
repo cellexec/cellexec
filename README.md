@@ -19,6 +19,7 @@ I’m all about building efficient, minimal, and automated setups. Whether it’
 - Rust
 - Progress 4GL
 
+<br /> <br /> <br />
 
 ## 🐧 My Linux Kickstart
 
