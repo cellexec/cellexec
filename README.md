@@ -2,6 +2,8 @@
 
 Self-taught tech enthusiast from Würzburg, Germany — born in '96, raised on curiosity, and a proud cat dad of two. I’ve been passionate about IT since I was 12 and am always eager to automate, improve, and learn new things.
 
+<br /> <br /> <br />
+
 ## 🧰 What I like working with
 
 I’m all about building efficient, minimal, and automated setups. Whether it’s frontend, backend, or infrastructure, I enjoy putting pieces together that *just work*.
@@ -29,6 +31,8 @@ I’m all about building efficient, minimal, and automated setups. Whether it’
 **🔗 Repository:** [kickstart.linux](https://github.com/cellexec/kickstart.linux)
 
 
+<br /> <br /> <br />
+
 ## 🚀 My GitOps Setup
 
 > [!TIP] 
@@ -36,6 +40,8 @@ I’m all about building efficient, minimal, and automated setups. Whether it’
 
 **🔗 Repository:** [flux-gitops](https://github.com/cellexec/flux-gitops)
 
+
+<br /> <br /> <br />
 
 ## 🧩 GitOps Applications
 
@@ -51,6 +57,8 @@ I’m all about building efficient, minimal, and automated setups. Whether it’
 - [app-dns](https://github.com/cellexec/app-dns)
 - [app-external](https://github.com/cellexec/app-external)
 
+
+<br /> <br /> <br />
 
 _Thanks for stopping by — feel free to check out my projects or connect with me!_
 
